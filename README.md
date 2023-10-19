@@ -9,9 +9,7 @@
   <img align="center" alt="Rosa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rosa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rosa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rosa-Supabase" height="30" width="40" src="https://example.com/icon-supabase.svg">
-  <img align="center" alt="Rosa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rosa-Cypress" height="30" width="40" src="https://example.com/icon-cypress.svg">
+  <img align="center" alt="Rosa-Supabase" height="30" width="40" src="https://img.shields.io/badge/Supabase-515151?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
 
 ---
