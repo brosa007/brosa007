@@ -1,32 +1,28 @@
 # Salve, família!! Meu nome é Gabriel Rosa
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Rosa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rosa-272762231/)](https://www.linkedin.com/in/gabriel-rosa-272762231/)
-[![Instagram Badge](https://img.shields.io/badge/-gabrielrosa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/b_rosa07/)](https://www.instagram.com/b_rosa07/)
+## 🚀 Tecnologias que eu uso no meu dia a dia
 
-## 🚀 Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img align="center" alt="Supabase" src="https://img.shields.io/badge/Supabase-515151?style=for-the-badge&logo=supabase&logoColor=white"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rosa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rosa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rosa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rosa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rosa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rosa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Rosa-Supabase" height="30" width="40" src="https://example.com/icon-supabase.svg">
+  <img align="center" alt="Rosa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rosa-Cypress" height="30" width="40" src="https://example.com/icon-cypress.svg">
 </div>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 Minhas Redes Sociais
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brosa007&show_icons=true&theme=tokyonight)
-
-## 📜 Atividades Recentes no GitHub
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
+<div> 
+  <a href="https://instagram.com/b_rosa07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/yfleury07" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:control.brosa07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-rosa-272762231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ✍️ Sempre em busca de novos desafios e aprendizados! Vamos conectar?
