@@ -20,7 +20,7 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b_rosa007&show_icons=true&theme=tokyonight)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brosa007&show_icons=true&theme=tokyonight)
 
 ## 📜 Atividades Recentes no GitHub
 
