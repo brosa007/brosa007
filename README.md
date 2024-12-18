@@ -1,5 +1,4 @@
-# Olá, rapaziada!! Meu nome é Gabriel Rosa... 
-# Por enquanto um desenvolvedor FrontEnd - Em busca do Fullstack
+# Olá, rapaziada!! Meu nome é Gabriel Rosa... Por enquanto um desenvolvedor FrontEnd - Em busca do Fullstack
 
 ## 🚀 Tecnologias que eu uso no meu dia a dia
 
