@@ -1,4 +1,4 @@
-# Salve, família!! Meu nome é Gabriel Rosa
+# Olá, rapaziada!! Meu nome é Gabriel Rosa... Sou dev frontend, futuro fullstack
 
 ## 🚀 Tecnologias que eu uso no meu dia a dia
 
