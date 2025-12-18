@@ -1,4 +1,4 @@
-# Olá, rapaziada!! Meu nome é Gabriel Rosa... Por enquanto um desenvolvedor FrontEnd - Em busca do Fullstack
+# Prazer, Gabriel Rosa... Fullstack Developer e Engenheiro de Automações
 
 ## 🚀 Tecnologias que eu uso no meu dia a dia
 
