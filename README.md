@@ -1,4 +1,4 @@
-# Prazer, Gabriel Rosa... Fullstack Developer e Engenheiro de Automações
+# Prazer, Gabriel Rosa - Fullstack Developer e Engenheiro de Automações
 
 ## 🚀 Tecnologias que eu uso no meu dia a dia
 
