@@ -70,20 +70,21 @@ I have 5 years of prior experience as a developer, giving me a solid technical a
 </tr>
 <tr>
 <td><strong>☁️ Deploy</strong></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark&titles=true" alt="Vercel" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,hostinger,aws&theme=dark&titles=true" alt="Vercel, Hostinger, AWS" /></td>
 </tr>
 <tr>
 <td><strong>🧰 Ferramentas</strong></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,cursor,vscode&theme=dark&titles=true" alt="Figma, Cursor, VS Code" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,vscode&theme=dark&titles=true" alt="Figma, VS Code" /></td>
 </tr>
 <tr>
 <td><strong>🤖 Inteligência Artificial</strong></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,openai&theme=dark&titles=true" alt="Claude, OpenAI" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,openai,cursor&theme=dark&titles=true" alt="Claude, OpenAI, Cursor" /></td>
 </tr>
 <tr>
 <td><strong>🌎 Idiomas</strong></td>
 <td>
-<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="26" height="26" alt="Português" title="Português"/> Português <sub>(Nativo)</sub>
+<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="26" height="26" alt="Português" title="Português"/> Português <sub>(Nativo)</sub>&nbsp;&nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="26" height="26" alt="Inglês" title="English"/> Inglês <sub>(Intermediário)</sub>
 </td>
 </tr>
 </table>
@@ -94,7 +95,6 @@ I have 5 years of prior experience as a developer, giving me a solid technical a
 
 Agência de desenvolvimento fundada em 2024, entregando:
 - 🌐 Landing pages e sites institucionais
-- 🛒 E-commerces
 - 💻 Web apps sob medida
 - 🤖 Agentes de IA via WhatsApp
 
@@ -104,9 +104,9 @@ Agência de desenvolvimento fundada em 2024, entregando:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="Cobra animada comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brosa007/brosa007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brosa007/brosa007/output/github-contribution-grid-snake.svg">
+    <img alt="Cobra animada comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/brosa007/brosa007/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
