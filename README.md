@@ -26,6 +26,7 @@ Tenho 5 anos de experiência prévia como desenvolvedor, o que me deu uma base s
 <br>
 
 I'm a fullstack developer based in Goiânia, Brazil, and founder of **Parks Company**, a dev agency focused on landing pages, web apps, and WhatsApp AI agents.
+
 I have 5 years of prior experience as a developer, giving me a solid technical and strategic foundation. I'm currently studying **Information Systems** at UFG and **AI Engineering** at UniPDS.
 
 </details>
