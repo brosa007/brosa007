@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong><code>Desenvolvedora Fullstack - Fundadora da Parks Company</code></strong><br>
+  <strong><code>Desenvolvedor Fullstack - Fundador da Parks Company</code></strong><br>
   <strong><code>Fullstack Developer - Founder of Parks Company</code></strong>
 </p>
 
@@ -15,9 +15,9 @@
 <summary><strong>🇧🇷 Português</strong></summary>
 <br>
 
-Sou desenvolvedora fullstack em Goiânia, fundadora da **Parks Company**, uma agência de desenvolvimento focada em landing pages, e-commerces, web apps e agentes de IA via WhatsApp. Também atendo demandas do programa Sebraetec sob a marca **IdsDev**, com trabalhos que vão do desenvolvimento à estratégia de marketing digital.
+Sou desenvolvedor fullstack em Goiânia, fundador da **Parks Company**, uma agência de desenvolvimento focada em landing pages, web apps e agentes de IA via WhatsApp.
 
-Tenho 5 anos de experiência prévia como desenvolvedora dentro de uma agência de marketing, o que me deu uma base sólida tanto técnica quanto estratégica. Atualmente curso **Sistemas de Informação** na UFG e **Engenharia de IA** na UniPDS, com conclusão prevista para 2027.
+Tenho 5 anos de experiência prévia como desenvolvedor, o que me deu uma base sólida tanto técnica quanto estratégica. Atualmente curso **Sistemas de Informação** na UFG e **Engenharia de IA** na UniPDS.
 
 </details>
 
@@ -25,9 +25,8 @@ Tenho 5 anos de experiência prévia como desenvolvedora dentro de uma agência 
 <summary><strong>🇺🇸 English</strong></summary>
 <br>
 
-I'm a fullstack developer based in Goiânia, Brazil, and founder of **Parks Company**, a dev agency focused on landing pages, e-commerces, web apps, and WhatsApp AI agents. I also handle Sebraetec-related demands under the **IdsDev** brand, covering both development and digital marketing strategy work.
-
-I have 5 years of prior experience as a developer inside a marketing agency, giving me a solid technical and strategic foundation. I'm currently studying **Information Systems** at UFG and **AI Engineering** at UniPDS, with an expected completion in 2027.
+I'm a fullstack developer based in Goiânia, Brazil, and founder of **Parks Company**, a dev agency focused on landing pages, web apps, and WhatsApp AI agents.
+I have 5 years of prior experience as a developer, giving me a solid technical and strategic foundation. I'm currently studying **Information Systems** at UFG and **AI Engineering** at UniPDS.
 
 </details>
 <br>
