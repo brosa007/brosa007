@@ -70,7 +70,7 @@ I have 5 years of prior experience as a developer, giving me a solid technical a
 </tr>
 <tr>
 <td><strong>☁️ Deploy</strong></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,hostinger,aws&theme=dark&titles=true" alt="Vercel, Hostinger, AWS" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,aws&theme=dark&titles=true" alt="Vercel, AWS" /></td>
 </tr>
 <tr>
 <td><strong>🧰 Ferramentas</strong></td>
@@ -78,7 +78,7 @@ I have 5 years of prior experience as a developer, giving me a solid technical a
 </tr>
 <tr>
 <td><strong>🤖 Inteligência Artificial</strong></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,openai,cursor&theme=dark&titles=true" alt="Claude, OpenAI, Cursor" /></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor&theme=dark&titles=true" alt="Claude, Cursor" /></td>
 </tr>
 <tr>
 <td><strong>🌎 Idiomas</strong></td>
@@ -104,9 +104,9 @@ Agência de desenvolvimento fundada em 2024, entregando:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brosa007/brosa007/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brosa007/brosa007/output/github-contribution-grid-snake.svg">
-    <img alt="Cobra animada comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/brosa007/brosa007/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brosa007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brosa007/output/github-contribution-grid-snake.svg">
+    <img alt="Cobra animada comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/brosa007/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
